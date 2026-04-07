@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Personal Finance</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="delete_transaction">Delete transaction</string>
+    <string name="amount">Amount</string>
+    <string name="type">Type</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="notes">Notes</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_category">Choose category</string>
+    <string name="login_heading">Welcome Personal Finance</string>
+    <string name="login_subheading">Enter your email to continue to your finance dashboard.</string>
+    <string name="email_hint">Email ID</string>
+    <string name="new_password_hint">New password</string>
+    <string name="login">Login</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="open_profile">Open profile</string>
+    <string name="close_profile">Close profile</string>
+    <string name="profile_title">Profile</string>
+    <string name="profile_default_name">User</string>
+    <string name="theme_title">Appearance</string>
+    <string name="theme_subtitle">Switch dark mode or light mode for the whole app.</string>
+    <string name="dark_mode">Dark mode</string>
+</resources>

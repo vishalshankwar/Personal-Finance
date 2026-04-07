@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="surface_primary">#F4F1EA</color>
+    <color name="card_surface">#FFFCF7</color>
+    <color name="card_hero">#E5F0EA</color>
+    <color name="card_hero_stroke">#C4D8CE</color>
+    <color name="accent">#1D6B57</color>
+    <color name="badge_background">#D6E8DD</color>
+    <color name="dashboard_background">#3B958F</color>
+    <color name="dashboard_background_deep">#2C7F79</color>
+    <color name="dashboard_card_soft">#5AABA2</color>
+    <color name="dashboard_card_stroke">#7EC7BD</color>
+    <color name="dashboard_surface">#F3FBF9</color>
+    <color name="dashboard_text_primary">#FFFFFFFF</color>
+    <color name="dashboard_text_secondary">#CFEDEA</color>
+    <color name="dashboard_badge">#3386C0B7</color>
+    <color name="text_primary">#1F2A26</color>
+    <color name="text_secondary">#63706B</color>
+    <color name="income_green">#1F8A55</color>
+    <color name="expense_red">#C85D46</color>
+    <color name="nav_selected">#1D6B57</color>
+    <color name="nav_unselected">#86928D</color>
+</resources>

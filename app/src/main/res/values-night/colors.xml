@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="surface_primary">#101514</color>
+    <color name="card_surface">#18201E</color>
+    <color name="card_hero">#22302B</color>
+    <color name="card_hero_stroke">#32453E</color>
+    <color name="accent">#7AD0B1</color>
+    <color name="badge_background">#24352F</color>
+    <color name="text_primary">#F3F7F5</color>
+    <color name="text_secondary">#AAB7B1</color>
+    <color name="income_green">#63D194</color>
+    <color name="expense_red">#FF8D74</color>
+    <color name="nav_selected">#7AD0B1</color>
+    <color name="nav_unselected">#87958F</color>
+</resources>
